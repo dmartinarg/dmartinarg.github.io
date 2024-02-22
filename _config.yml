@@ -1,17 +1,18 @@
-title: Midnight theme
-description: Midnight is a theme for GitHub Pages.
+title: Minimal theme
+logo: /assets/img/logo.jpg
+description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-remote-theme 
   - jekyll-include-cache # add this line to the plugins list if you already have one
   - jekyll-paginate
 
-title: hola ASIR2
+title: Kuumii3's Page
 
 defaults:
   - scope:
@@ -45,5 +46,5 @@ paginate_path: /blog/page:num/
 minima:
   skin: dark
 
-name: oscar novillo
+name: xio
   

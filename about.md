@@ -1,17 +1,16 @@
 ---
-title: about
-permalink: /juju
-layout: asdasdasdasd
+title: About me 
+permalink: /aboutme
+layout: post
 
 date: 2024-10-10
-author: juan
-tags: juegos,mierda
+author: Diego
+tags: notas,aboutme
 
 ---
 
-# TITULO
+## About me 
 
-Contenido del about
-
-hola danielo
+Soy Diego
+Me gusta el fornite y el lol
 
