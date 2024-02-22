@@ -1,9 +1,8 @@
-title: Minimal theme
-logo: /assets/img/logo.jpg
-description: Minimal is a theme for GitHub Pages.
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
